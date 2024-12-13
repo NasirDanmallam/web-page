@@ -1,0 +1,58 @@
+.nasir{
+    height: 200px;
+    width: 200px;
+}
+.header{
+    background-color: #2e1bd6;
+    color: white;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+body{
+    background-color: #a3a3a3;
+}
+.container{background-color: #fff;
+    width: 1000px;
+    margin: auto;
+}
+.content{
+    margin-top: 15%;
+    margin-bottom: 15%;
+    padding: 20px;
+    display: flex;
+}
+.image{
+    width: 310px;
+}
+.text{
+    width: 650px;
+}
+.footer{
+    text-align: center;
+    padding-bottom: 2%;
+    background-color:#2e1bd6;
+    color: white;
+    padding-top: 2%;
+}
+h1{
+    font-family: Verdana;
+    font-size: 45px;
+}
+h2{
+    font-family: Verdana;
+    font-size: 23px;
+}
+button{
+    border-radius: 5px;
+    background-color: lightgreen;
+    border: 0px;
+    width: 90px;
+    height: 35px;
+    color: white;
+    padding: 5px;
+
+}
+img{
+    border-radius: 50%;
+}
